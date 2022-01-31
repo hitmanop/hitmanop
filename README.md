@@ -23,17 +23,16 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-
- <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  
-    <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+   <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
    <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+ <img src="https://img.icons8.com/color/48/000000/javascript.png"/>  
  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
  <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> 
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
   <img src="https://img.icons8.com/color/48/000000/git.png"/> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-</p>
+  
 
 
 
