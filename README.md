@@ -33,10 +33,9 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
   <img src="https://img.icons8.com/color/48/000000/git.png"/> 
   </p>
-  
-  <p align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hitmanop)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=hitmanop)](https://github.com/hitmanop/github-readme-stats)
+
 
 
 
