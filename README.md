@@ -5,7 +5,10 @@
 
 ## 🙋‍♂️ About Me
 
-
+Results-driven Java Developer with 2+ years of experience in building scalable, high-performance applications.
+Proficient in Java and Spring Boot, with experience in RESTful APIs, performance optimization, and
+third-party integrations. Skilled in Agile collaboration and troubleshooting system bottlenecks to deliver
+efficient, secure, and maintainable code.
 
 
 
